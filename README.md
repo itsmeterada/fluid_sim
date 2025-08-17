@@ -2,7 +2,7 @@
 
 A real-time FLIP (Fluid Implicit Particle) fluid simulation implemented in C with SDL2 visualization.
 
-![screenshot])(screenshot.png)
+![screenshot](screenshot.png)
 
 ## Features
 
